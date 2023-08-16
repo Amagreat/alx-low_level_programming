@@ -1,13 +1,13 @@
 #include "main.h"
 /**
- * main - Entry point
- * Description: prints _putchar followed by a new lines
- * Return: Always 0 (Success)
+ * main - Entry points
+ * Descriptions: prints _putchar followed by a new lines
+ * Return: Always 0(Success)
  */
 int main(void)
 {
 _putchar('_');
-_putchar('P');
+_putchar('p');
 _putchar('u');
 _putchar('t');
 _putchar('c');
