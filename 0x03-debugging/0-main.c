@@ -11,6 +11,5 @@ int main(void)
 
 ^ I ^ I ^ I ^ I i = 0;
 ^ I ^ I ^ I ^ I positive_or_negative(i);
-
 ^ I ^ I return (0);
 }
