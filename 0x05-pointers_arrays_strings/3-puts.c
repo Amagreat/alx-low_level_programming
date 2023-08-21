@@ -1,6 +1,6 @@
 #include "main.c"
 /**
- * _puta - prints a string followed by a new line
+ * _puts - prints a string followed by a new line
  * @str: pointer to the string
  */
 void _puts(char *str)
